@@ -1,21 +1,20 @@
 # My instrument
 
-**Play it here:** <!-- Paste your GitHub Pages link here, e.g. https://idbcourses.github.io/your-repo-name/ -->
+**Play it here:** https://idbcourses.github.io/ht26-a3-ivmi2801/
 
-**Name:** <!-- Your name and MAU ID -->
+**Name:** Ivana Minova / as7054
 
-<!-- One or two sentences: what kind of instrument is it, and what is it like to play? -->
+This is an interactive virtual musical instrument that plays a repeating melody "Twinkle, twinkle, little star" when the mouse is pressed. When the pointer is moved the volume of the sound changes. A circle is folowing the mouse and it's changing size depending on the movement speed and position.
 
 ## How to play
 
-<!-- Fill in the table with a row for everything the player can do with the pointer: clicking, moving slowly or fast, moving in circles, holding still... Say what happens to the sound and to the shapes. If you added keys, give them rows too. -->
-
-| When you...  | The sound...                         | The shapes... |
-| ------------ | ------------------------------------ | ------------- |
-| Click or tap | Plays a C4 (the example: replace it) | Nothing yet   |
-|              |                                      |               |
-
-<!-- Anything else a player needs to know: how to get started, a good thing to try first. -->
+| When you...                       | The sound...           | The shape...                        |
+| ----------------------------------|------------------------| ------------------------------------|
+| click & hold the pointer          | repeating melody plays | nothing yet                         |
+| move the pointer without clicking | nothing plays          | follows the mouse and changes size  |
+| click & move the pointer to top   | melody plays quieter   | size becomes smaller                |
+| click & move the pointer to bottom| melody plays louder    | size becomes bigger                 |
+| click & move the pointer faster   | melody plays faster    | size changes                        |
 
 ---
 
